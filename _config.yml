@@ -16,3 +16,4 @@ paginate: 5
 paginate_path: "/:num/"
 highlighter: rouge
 permalink: pretty
+remote_theme: clarkhacks/Minimal-Text
