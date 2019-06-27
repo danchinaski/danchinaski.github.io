@@ -2,9 +2,7 @@
 title: Minimal Text
 baseUrl: "/"
 url: "https://danchinaski.github.io/"
-desc: <h1>About</h1>
-
-<p>Currently a Security Consultant @ NCC Group. Former IT Instructor @ <a href="http://www.yearup.org/">Year Up</a>. I spent some time in <a href="http://en.wikipedia.org/wiki/Somaliland">Somaliland</a>; you can find my blog of my travels <a href="http://www.ubiquitoushastings.com/blog">here</a>. Check out my current <a href="https://1066.io/blog">blog</a>.</p>
+desc: I am currently a Security Consultant @ NCC Group. Former IT Instructor Year Up. I spent some time in <a href="http://en.wikipedia.org/wiki/Somaliland">Somaliland</a>; you can find my blog of my travels <a href="http://www.ubiquitoushastings.com/blog">here</a>. Check out my current <a href="https://1066.io/blog">blog</a>.</p>
 image: https://pbs.twimg.com/profile_images/378800000828997628/cbf39ea105c32d05c4ed0450a50dfde0_400x400.jpeg
 excerpt_separator: "<!-- more -->"
 markdown: kramdown
